@@ -1,0 +1,19 @@
+# IDEA files
+.idea
+*.iml
+
+# Virtual env
+venv
+.venv
+Pipfile.lock
+
+# Extracted datasets
+data/Train.csv
+data/Test.csv
+data/ValidSolution.csv
+
+# submission dataset
+data/submission.csv
+
+# Generated reports
+generated-reports
