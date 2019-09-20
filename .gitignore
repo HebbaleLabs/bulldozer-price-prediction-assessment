@@ -10,7 +10,7 @@ Pipfile.lock
 # Extracted datasets
 data/Train.csv
 data/Test.csv
-data/ValidSolution.csv
+data/Test.zip
 
 # submission dataset
 data/submission.csv
